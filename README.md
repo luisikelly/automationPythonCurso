@@ -32,16 +32,19 @@ El objetivo principal es automatizar distintas funcionalidades de una aplicació
 ```bash
 git clone https://github.com/luisikelly/automationPythonCurso.git
 cd pre-entrega
+```
 ---
 
 ## Cómo Ejecutar las Pruebas
 ### Ejecutar todas las pruebas
+```bash
 pytest tests/ -v
-### Ejecutar con reporte HTML
-pytest tests/ --html=reports/report.html --self-contained-html
+```
 ### Ejecutar un test específico
-Bashpytest tests/test_login.py -v
-
+```bash
+pytest tests/test_login.py -v
+```
+--------------
 ## Funcionamiento de las Pruebas
 
 Test Login: Validación de login exitoso.
