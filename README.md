@@ -47,6 +47,6 @@ pytest tests/test_login.py -v
 --------------
 ## Funcionamiento de las Pruebas
 
-Test Login: Validación de login exitoso.
-Test Cart: Añadir producto al carrito y validacion del producto agregado.
-Test Catalog: Navegación por catalogo de productos en la pantalla principal de la pagina
+- Test Login: Validación de login exitoso.
+- Test Cart: Añadir producto al carrito y validacion del producto agregado.
+- Test Catalog: Navegación por catalogo de productos en la pantalla principal de la pagina
