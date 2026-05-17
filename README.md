@@ -3,7 +3,7 @@
 ## Descripción
 
 Proyecto de automatización de pruebas funcionales realizado con **Python**, **Selenium WebDriver** y **Pytest**.  
-El objetivo principal es automatizar distintas funcionalidades de una aplicación web para garantizar su correcto funcionamiento y mejorar la calidad del software.
+El objetivo principal es automatizar distintas funcionalidades de una aplicación web para garantizar su correcto funcionamiento y garantizar la calidad del software.
 
 ---
 
